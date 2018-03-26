@@ -1,0 +1,2 @@
+module Yahtzee.Types
+
